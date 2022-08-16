@@ -15,7 +15,7 @@
 
 > 다같이 코드를 작성해야되서 git branch를 사용하여 개발을 할 계획입니다.
 > 아래의 링크와 youtube에서 사용법 확인 후 사용하시면 됩니다
-> link:https://devye.tistory.com/104
+> link : https://devye.tistory.com/104
 
 ---
 
@@ -25,3 +25,6 @@
 > 이미지 --> 학습할 메뉴 1차(메뉴 한개 주문) : client\src\js\controllers\navController.js
 > 위에 관련한 js파일은 생성 후 코드 작성
 > sass에서 css관련 작업 진행
+
+#자성자 git페이지
+link : https://github.com/yg-0103/cafe-kiosk
