@@ -26,5 +26,6 @@
 > 위에 관련한 js파일은 생성 후 코드 작성
 > sass에서 css관련 작업 진행
 
-#자성자 git페이지
+# 자성자 git페이지
+
 link : https://github.com/yg-0103/cafe-kiosk
